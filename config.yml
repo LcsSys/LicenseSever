@@ -1,0 +1,8 @@
+dbHost: example.com
+dbName: licenseserver
+dbUser: licenseserver
+dbPass: *************
+pathToKeyStore: ssl/serverKeyStore
+keyStorePass: *************
+pathToTrustStore: ssl/serverTrustStore
+trustStorePass: *************
